@@ -30,19 +30,13 @@ permalink: /ismb/
     <div class="col m4 s12 event-page-menu-block">
         <i class="material-icons large">border_color</i>
         <h3>Registration</h3>
-        <a class="btn waves-effect waves-light" href="https://www.iscb.org/ismb2018-registration" type="submit" name="action">Register</a>
+        <a class="btn waves-effect waves-light disabled" href="https://www.iscb.org/ismb2018-registration" type="submit" name="action">Register</a>
     </div>
 
     <div class="col m4 s12 event-page-menu-block">
      <i class="material-icons large">list</i>
      <h3>Main Program</h3>
-     <a class="btn waves-effect waves-light" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
-    </div>
-	
-	<div class="col m4 s12 event-page-menu-block">
-     <i class="material-icons large">list</i>
-     <h3>Tutorial (July 6, 2018)</h3>
-     <a class="btn waves-effect waves-light" href="https://www.iscb.org/ismb2018-program/ismb2018-tutorials#pm5" type="submit" name="action">More Information</a>
+     <a class="btn waves-effect waves-light disabled" href="{{site.baseurl}}/program_ismb" type="submit" name="action">View Main Program</a>
     </div>
 </div>
 
@@ -56,8 +50,8 @@ permalink: /ismb/
              <p><strong>ISMB COSI date:</strong>  July 9 2018 </p>
             <p><strong>ISMB Proceedings Paper Submission Deadline:</strong>  {{ site.ismb_paper_submission_deadline }}</p>
 			<p><strong>Abstract Submission Deadline:</strong> {{ site.ismb_abstract_submission_deadline}}</p>  
-            <p><strong>Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
-			<p><a href="https://www.iscb.org/ismb2018-keydates">See ISMB Key Dates for more details</a></p>
+            <p><strong>Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+			<p><a href="https://www.iscb.org/ismbeccb2019-keydates">See ISMB Key Dates for more details</a></p>
       </div>
 
 

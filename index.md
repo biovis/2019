@@ -13,10 +13,8 @@ layout: home
         <div class="blue-section col s12">
         <div class="container">
               <p class="hide-on-small-only">
-			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in {{site.ISMBconferencedate}} in Chicago (United States). A smaller workshop event will be held at <a href="http://ieeevis.org" >IEEE VIS</a> in {{site.IEEEconferencedate}} in Berlin (Germany). Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
-              </p>
-
-			  
+			  There are multiple ways to participate in BioVis through conferences and ongoing events. This year, the main BioVis event will be at <a href="https://www.iscb.org/about-ismb">ISMB</a> as a <a href="https://www.iscb.org/communities-of-special-interest">Community of Special Interest (COSI)</a> in {{site.ISMBconferencedate}} in Basel (Switzerland). A smaller workshop event will be held at <a href="http://ieeevis.org" >IEEE VIS</a> in {{site.IEEEconferencedate}} in Vancouver (Canada). Throughout the year, BioVis will also be hosting a DREAM challenge event. These events serve as a platform for researchers from biology, bioinformatics, and information visualization fields to increase the impact of data visualization approaches in biology, and to initiate interdisciplinary collaborations. Get involved in our events at a conference or challenge (or all three!). Important dates for submissions are available below, and on the detailed pages for each event.
+              </p>		  
 			  
             <div class="row ">
 				<a href="{{site.baseurl}}/ismb">
@@ -28,7 +26,7 @@ layout: home
 
                       <div class="col s12 event-details">
                           <div class="event-name">ISMB 2019 - Main Conference Event</div>
-                          <div class="event-location">Chicago, United States</div>
+                          <div class="event-location">Basel, Switzerland</div>
                           <div class="event-date">July 9th 2019</div>
                       </div>
                   </div>
@@ -45,14 +43,14 @@ layout: home
                           <div class="col s6 event-details">
                             <div class="event-name" style="text-align:left;">IEEE VIS 2019</div>
                             <div class="event-subtitle" style="text-align:left;">Workshop</div>
-                            <div class="event-location" style="text-align:left;">Berlin, Germany</div>
+                            <div class="event-location" style="text-align:left;">Vancouver, Canada</div>
                             <div class="event-date" style="text-align:left;">October 2019</div>
                           </div>
                         </div>
                       </a>
                   </div>
 					
-					
+					<!--
 					<div class="row">
                       <a href="{{site.baseurl}}/dream">
                         <div class="col s12 eventSplit center-align">
@@ -66,6 +64,7 @@ layout: home
                         </div>
                       </a>
                   </div>
+				  -->
 					
 				</div>
             </div>
@@ -81,7 +80,7 @@ layout: home
                           <div class="col s6 event-details">
                             <div class="event-name" style="text-align:left;">IEEE VIS 2019</div>
                             <div class="event-subtitle" style="text-align:left;">Workshop</div>
-                            <div class="event-location" style="text-align:left;">Berlin Germany</div>
+                            <div class="event-location" style="text-align:left;">Vancouver Canada</div>
                             <div class="event-date" style="text-align:left;">October 2019</div>
                           </div>
                         </div>
@@ -137,9 +136,9 @@ layout: home
                         <p><strong>ISMB Proceedings Paper Submission Deadline:</strong> {{ site.ismb_paper_submission_deadline }}</p>
                         <!--<p><strong>BioVis Proceedings Paper Submission Deadline (presented at ISMB):</strong> {{ site.biovis_paper_submission_deadline}}</p>-->
 						<p><strong>ISMB Abstract Submission Deadline:</strong>  {{ site.ismb_abstract_submission_deadline }}</p>
-                        <p><strong>ISMB Late Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
+                        <p><strong>ISMB Poster Submission Deadline:</strong>  {{ site.ismb_poster_submission_deadline }}</p>
                         <!--<p><strong>BioVis @ ISMB Highlight Talks Submission Deadline:</strong> {{ site.ismb_highlights_submission_deadline}}</p>-->
-						<p><a href="https://www.iscb.org/ismb2019-keydates">See ISMB Key Dates for more details</a></p>
+						<p><a href="https://www.iscb.org/ismbeccb2019-keydates">See ISMB Key Dates for more details</a></p>
                 </div>
 
                 <!-- ADDING A NEWS FEED -->
@@ -191,7 +190,7 @@ layout: home
                         <div class="col s12 m12">
 
                             <h4>Affiliates</h4>
-                            <p> {{ site.conferenceshort }} is an official part of <a href="https://www.iscb.org/ismb2019"> ISMB 2019</a></p>
+                            <p> {{ site.conferenceshort }} is an official part of <a href="https://www.iscb.org/ismbeccb2019">ISMB 2019</a></p>
                             <p>    <a href="https://www.iscb.org">
                                     <img src="{{site.baseurl}}/images/sponsors/ISCB.jpg" alt="ISCB"/>
                                 </a>

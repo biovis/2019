@@ -6,9 +6,10 @@ baseurl: "/2019"
 #url: "http://biovis.github.io/biovis_2016"
 url: "http://biovis.net"
 conferenceshort: "BioVis 2019"
-eventNum: "8th"
+#FIX ME: the event number is most likely not correct
+eventNum: "9th" 
 IEEEconferencedate: "October 2019"
-ISMBconferencedate: "July 9th 2019"
+ISMBconferencedate: "July 22, 2019"
 
 # Old deadlines so I remember what they're called
 # When everything breaks
@@ -21,20 +22,20 @@ ISMBconferencedate: "July 9th 2019"
 #ISMB_deadline_poster: "TBD"
 #ISMB_hl_and_nresearch_notiication: "TBD"
 
-ismb_paper_submission_deadline: "January 29 2019"
-ismb_paper_conditional_accept: "TBD"
-ismb_paper_revised: "TBD"
-ismb_paper_final_acceptance: "TBD"
+ismb_paper_submission_deadline: "January 28, 2019"
+ismb_paper_conditional_accept: "March 6, 2019"
+ismb_paper_revised: "March 22, 2019"
+ismb_paper_final_acceptance: "April 8, 2019"
 
 biovis_paper_submission_deadline: "TBD"
 
-ismb_abstract_submission_deadline: "April 5 2019"
+ismb_abstract_submission_deadline: "Early April, 2019"
 
-ismb_poster_submission_deadline: "May 1st 2019"
-ismb_poster_accept: "TBD"
+ismb_poster_submission_deadline: "Early April, 2019"
+ismb_poster_accept: "Early May, 2019"
 ismb_poster_oral_notification: TBD"
 
-ismb_highlights_submission_deadline: "May 4th 2019"
+ismb_highlights_submission_deadline: "TBD"
 ismb_highlights_accept: "TBD"
 
 bmc_submission_deadline: ""
