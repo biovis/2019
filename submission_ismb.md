@@ -15,15 +15,14 @@ Novel, unpublished work can be submitted as a paper to the ISMB Proceedings. If 
 
 ### Submission Guidelines
 
-Authors are required to submit a full paper by January 28, 2019  through the <a href="https://www.iscb.org/ismbeccb2019-submit/proceedings">ISMB Proceedings Submission Site</a> and must adhere to the submission guidelines outlined on that site. 
+Authors are required to submit a full paper by January 28, 2019  through the [ISMB Proceedings Submission Site](https://www.iscb.org/ismbeccb2019-submit/proceedings) and must adhere to the submission guidelines outlined on that site. 
 
 #### **IMPORTANT: During submission please select the general subject of your submissions, and then make sure to <strong>specify BioVis as the "TOPIC" of your submission</strong> to ensure your manuscript is assigned to our COSI.**
 
 We encourage the use of digital video to enhance paper submissions, particularly if part or all of the work addresses interactive techniques. However, please note that OUP does not support videos as supplementary materials, so you will have to host the video elsewhere (e.g., YouTube).
 
-## 2. Abstracts - Submission Deadline: Early April, 2019; Poster Submission Deadline: Early April, 2019
-Participants are encouraged to submit abstracts describing their unpublished or recently published work related to biological data visualization. Submitters may choose to have their submission reviewed for: talk only, talk and poster, or poster only. If you select talk and poster and are unsuccessful for a talk your abstract will automatically be reviewed for a poster presentation.
+## 2. Abstracts - Submission Deadline: April 11, 2019; Poster Submission Deadline: May 6, 2019
+We are now accepting long abstracts (1500 words) for talks describing new work, and short abstracts (200 words) highlighting work recently published. We also invite abstracts for posters describing work in progress and preliminary results and these will also be considered for oral presentation during the meeting.
 
 ### Submission Guidelines
-TBA
-<!--Authors are required to submit an abstract by Early April, 2019 through the [ISMB Abstract Submission Site](https://www.iscb.org/ismb2019-submit/ismb2019-abstracts) and must adhere to the submission guidelines outlined on that site. ISMB will also accept late posters abstracts beginning April 6, 2019.-->
+Submissions are made via the [2019 ISMB/ECCB Abstracts Submission](https://easychair.org/conferences/?conf=ismbeccb2019abstract) system by selecting the ‘BioVis COSI’ as the track relevant to your submission. 
