@@ -2,31 +2,31 @@
 layout: map_page
 logo: ieee.svg
 title: BioVis at IEEE VIS (BioVis@VIS)
-location: Berlin, Germany
-date: 22 October 2018
+location: Vancouver, Canada
+date: 24 October 2019
 main_venue_rln: In conjunction
-main_venue: IEEE VIS 2018
+main_venue: IEEE VIS 2019
 main_venue_url: http://ieeevis.org/
 permalink: /ieeevis/
 ---
 
-<!--<br>
+<br>
 <div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
-<h4> Additional details for BioVis@VIS 2018 will be announced soon. In the meantime check out last year's event <a href="http://biovis.net/2017/ieeevis">BioVis@VIS</a> and our co-located meeting with <a href= "http://biovis.net/2017/ismb">ISMB 2017</a> </h4>
-</div>-->
+Biovis@VIS will be held during the main IEEE VIS 2019 program on Thursday October 24th, 2019, over two consecutive sessions: 9:00AM to 10:30 AM and again from 10:50 AM to 12:20 PM.
+</div>
 
 <div class="row center-align">
 
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">create</i>
         <h3>BioVis Challenges</h3>
-        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/biovisChallenges_vis" type="submit" name="action">View Details</a>
+        <a class="btn waves-effect disabled waves-light" href="{{site.baseurl}}/biovisChallenges_vis" type="submit" name="action">View Details</a>
     </div>
 
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">list</i>
         <h3>Program</h3>
-        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/agenda_ieee" type="submit" name="action">View Details</a>
+        <a class="btn waves-effect disabled waves-light" href="{{site.baseurl}}/agenda_ieee" type="submit" name="action">View Details</a>
     </div>
 </div>
 
@@ -36,7 +36,7 @@ permalink: /ieeevis/
 <div class="row left-align">
     <div class="col s12 m6">
         <h4>Important Dates</h4>
-        <p>Workshop date: October 22nd, 2018</p>
+        <p>Workshop date: October 24nd, 2018</p>
     </div>
 
     <div class="col s12 m6">

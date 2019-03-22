@@ -28,7 +28,6 @@ menu: main
 [Thomas Höllt](https://graphics.tudelft.nl/thomas-hollt/), TU Delft, The Netherlands<br />
 [Michael Krone](https://www.visus.uni-stuttgart.de/institut/personen/Krone/), University of Stuttgart, Germany<br/>
 
-
 ### Poster chair
 [Danielle Albers](http://danielleszafir.com/) University of Colorado at Boulder, USA<br />
 
@@ -40,6 +39,7 @@ menu: main
 
 ### Chairs
 [Anamaria Crisan](http://www.cs.ubc.ca/~acrisan/), University of British Columbia, Canada<br />
+[Cydney Nielsen](http://www.cydney.org/Home.html), Microsoft Vancouver, Canada<br />
 
 ## Steering Committee for 2018-2019
 [Jessie Kennedy](http://www.iidi.napier.ac.uk/c/people/peopleid/41), Edinburgh Napier University, UK<br />
