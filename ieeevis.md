@@ -36,7 +36,7 @@ Biovis@VIS will be held during the main IEEE VIS 2019 program on Thursday Octobe
 <div class="row left-align">
     <div class="col s12 m6">
         <h4>Important Dates</h4>
-        <p>Workshop date: October 24nd, 2018</p>
+        <p>Workshop date: October 24nd, 2019</p>
     </div>
 
     <div class="col s12 m6">

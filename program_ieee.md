@@ -20,7 +20,7 @@ The goal of the workshop is to lay the groundwork for a position paper on challe
 ### Preliminary Timeline
 Note: This is a rough agenda and the timings might slightly vary due to the dynamic nature of the workshop
 
-**When:** October 22nd, 2018, 9:00 - 12:40
+**When:** October 22nd, 2019, 9:00 - 12:40
 
 **Location:** Room Estrel B, Estrel Berlin Convention Center (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
