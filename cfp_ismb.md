@@ -62,23 +62,23 @@ We encourage the use of digital video to enhance paper submissions, particularly
 
 
 
-### 2. Talks - *Submission Deadline: Early April, 2019*
+### 2. Talks - *Submission Deadline: April 11, 2019*
 
 Participants are encouraged to submit short abstracts describing their recently published work related to biological data visualization or extended abstracts concerning unpublished work.  Submissions will be reviewed by the chairs and by external reviewers. If accepted, participants are required to present their work in a talk at the symposium. Authors of rejected talks will be invited to submit a poster.
 
 #### Submission Guidelines
 
-Published work: Authors are required to submit a short abstract (250 words) by early April, 2019. Summaries should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the summary, unless the paper is open access.
+Published work: Authors are required to submit a short abstract (250 words) by April 11, 2019. Summaries should include a concise description of the work and may include descriptive figures. The previously published paper **must** be submitted along with the summary, unless the paper is open access.
 
-Unpublished work: Authors are required to submit an extended abstract (1500 words) by early April, 2019. The text should include a concise description of the work and have descriptive figures. 
+Unpublished work: Authors are required to submit an extended abstract (1500 words) by April 11, 2019. The text should include a concise description of the work and have descriptive figures. 
 
-### 3. Posters and demos - *Submission Deadline: Early April, 2019*
+### 3. Posters and demos - *Submission Deadline: May 6, 2019*
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster and/or interactive demo. A selection of these will be invited to give a short talk during the conference.
 
 #### Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure by early April, 2019. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access.
+Authors are required to submit a short abstract (250 words) and a supporting figure by May 6, 2019. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
 
@@ -94,7 +94,7 @@ Conditional Acceptance Notification: March 6, 2019
 Revision Deadline: March 22, 2019  
 Final Acceptance Notification: April 8, 2019  
 
-### Deadlines and Notifications for Talks and Posters/Demos
+### Deadlines for Talks and Posters/Demos
 
-Submission Deadline: Early April, 2019
-Acceptance Notification: Early May, 2019
+Abstract Submission Deadline: April 11, 2019<br/>
+Poster Submission Deadline: May 6, 2019
