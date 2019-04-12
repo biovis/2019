@@ -9,4 +9,4 @@ back_url: /ieeevis
 author: Jan Byška
 ---
 
-We are gald to annouce that BioVis@VIS Workshop will take place on Thursday 24th October 2019. More information [here](http://biovis.net/2019/ieeevis/).
+We are glad to annouce that BioVis@VIS Workshop will take place on Thursday 24th October 2019. More information [here](http://biovis.net/2019/ieeevis/).
