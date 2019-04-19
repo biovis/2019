@@ -25,7 +25,7 @@ menu: main
 [Alexander Lex](http://vdl.sci.utah.edu/team/lex/), University of Utah, USA<br />
 
 ### Highlights chairs
-[Thomas Höllt](https://graphics.tudelft.nl/thomas-hollt/), TU Delft, The Netherlands<br />
+[Thomas Höllt](https://www.thomashollt.com), Leiden University Medical Center, The Netherlands<br />
 [Michael Krone](https://uni-tuebingen.de/en/faculties/faculty-of-science/departments/computer-science/lehrstuehle/big-data-visual-analytics-in-life-sciences/group-members/jun-prof-dr-michael-krone/), University of Tübingen, Germany<br/>
 
 ### Poster chair
