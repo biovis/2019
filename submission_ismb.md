@@ -21,7 +21,7 @@ Authors are required to submit a full paper by January 28, 2019  through the [IS
 
 We encourage the use of digital video to enhance paper submissions, particularly if part or all of the work addresses interactive techniques. However, please note that OUP does not support videos as supplementary materials, so you will have to host the video elsewhere (e.g., YouTube).
 
-## 2. Abstracts - Submission Deadline: April 11, 2019; Poster Submission Deadline: May 6, 2019
+## 2. Abstracts - Submission Deadline: April 11, 2019; Poster Submission Deadline: {{ site.ismb_poster_submission_deadline }}
 We are now accepting long abstracts (1500 words) for talks describing new work, and short abstracts (200 words) highlighting work recently published. We also invite abstracts for posters describing work in progress and preliminary results and these will also be considered for oral presentation during the meeting.
 
 ### Submission Guidelines

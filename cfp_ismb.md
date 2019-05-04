@@ -72,13 +72,13 @@ Published work: Authors are required to submit a short abstract (250 words) by A
 
 Unpublished work: Authors are required to submit an extended abstract (1500 words) by April 11, 2019. The text should include a concise description of the work and have descriptive figures. 
 
-### 3. Posters and demos - *Submission Deadline: May 6, 2019*
+### 3. Posters and demos - *Submission Deadline: {{ site.ismb_poster_submission_deadline }}*
 
 We invite participants to submit work in progress and preliminary results, previously published work from other venues, or visualization challenges to be presented as a poster and/or interactive demo. A selection of these will be invited to give a short talk during the conference.
 
 #### Submission Guidelines
 
-Authors are required to submit a short abstract (250 words) and a supporting figure by May 6, 2019. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access.
+Authors are required to submit a short abstract (250 words) and a supporting figure by {{ site.ismb_poster_submission_deadline }}. Abstracts should include a concise description of an idea, work in progress, preliminary results, visualization challenges, or previously published work presented at other venues that is also relevant for the BioVis community. If the submission is based on previous work, the published paper **must** be submitted along with the summary, unless the paper is open access.
 
 Poster preparation instructions will be e-mailed to authors of accepted submissions.
 
@@ -97,4 +97,4 @@ Final Acceptance Notification: April 8, 2019
 ### Deadlines for Talks and Posters/Demos
 
 Abstract Submission Deadline: April 11, 2019<br/>
-Poster Submission Deadline: May 6, 2019
+Poster Submission Deadline: {{ site.ismb_poster_submission_deadline }}
