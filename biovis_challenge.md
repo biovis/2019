@@ -2,33 +2,81 @@
 layout: page
 title: BioVis@IEEE Challenges Workshop
 permalink: /biovisChallenges_vis/
-back_title: IEEE VIS 2018
+back_title: IEEE VIS 2019
 back_url: ieeevis
 ---
-## BioVis Challenges Workshop at IEEE VIS 2018, Berlin, Germany
+## BioVis Challenges Workshop 
+## at IEEE VIS 2019, Vancouver, British Columbia
 
 ### Aims, Scope & Objectives
 The rapidly expanding field of biology creates enormous challenges for data visualization techniques that enable researchers to gain insight from their large and highly complex data sets.
-The BioVis Interest Group organizes this interdisciplinary workshop at IEEE VIS, covering aspects of visualization in biology. This workshop brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization. The goal of this workshop is to create synergies and spark potential future collaborations between domain experts and vis researchers around state-of-the-art biology-driven challenges.
 
-### Workshop Format
-BioVis Challenges Workshop is a half-day event organised in conjunction with <a href="http://ieeevis.org/year/2018/welcome">IEEE VIS 2018</a> taking place on October 21st to October 26th, 2018 in Berlin, Germany. The workshop will be held on <strong>October 22nd, 2018</strong> in the morning session, and will be focusing on a state-of-the-art biological challenge that requires a concerted effort from researchers in visualisation and biology to be addressed effectively. The event will kick-off with a keynote from a biology expert where challenges in a particular domain are presented, related data sources and existing efforts are discussed, and eventually a series of motivating scientific questions are posed to motivate the rest of the event. Following the keynote, the session will involve hands-on activity by groups of visualisation researchers, paired up with a domain scientist. Groups will be working on the sub-problems highlighted at the keynote, characterising the problem further, and sketching solutions and ideas in a format that best suits them (from pen and paper, to sketchy prototypes) to eventually develop a proposal for further research. The event will then conclude with the groups reporting back their approach, and participants will be encouraged to continue working on the problems through further collaborations using their produced proposals as a starting point.
-The output of the workshop will be a list of well-characterized visualization challenges within the context of the problem domain. The organizers, together with the participants, will externalize these challenges in the form of a report or publication following the event.
+The BioVis Interest Group organizes this interdisciplinary workshop at IEEE VIS, covering aspects of visualization in biology. This workshop brings together researchers from the visualization, bioinformatics, and biology communities with the purpose of educating, inspiring, and engaging visualization researchers in problems in biological data visualization. 
 
-### Workshop Theme & Speakers
+### Challenge Formats
+Researchers will have two opportunities to participate in this year’s Biovis Challenge. The first is a **Data Challenge** where researchers are tasked to visualize the tree of life, the second opportunity is a **Redesign Challenge** where researchers have the opportunity to propose and present a redesign of a biological data visualization of their choosing. 
 
-#### Visualization of Biomedical Data across a Million Individuals
-The number of individuals in studies that are collecting clinical, genomic, and other biomedical data has been growing rapidly in recent years. For example, the UK Biobank currently makes data for 500,000 individuals available and the National Institutes of Health All of Us Program aims to collect data on a million individuals over the next few years. Similar data collection and organization efforts are also taking place at hospitals and private companies in the pharma and healthcare sectors. The breadth of these collections is also growing significantly with the increasing availability of different data channels and personal sensors, adding new layers of richness and valuable information.
+<br>
+<br>
+#### > Data Challenge
 
-In this workshop, we will discuss what unique data visualization challenges visualization of data from such studies are posing and how the visualization community can contribute to the success of those studies. This will include  questions focused on visual design and interaction, but also technical and legal challenges related to data access, for a broad range of data types and driving biomedical questions.
+*The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this simile largely speaks the truth.*
+— Charles Darwin
 
-We are in the process of determining the speakers for the workshop and will post the updates on this page. A link to last year’s workshop is below.
+Genomic data is enabling researchers to deeply probe the relatedness of different members of the same species in addition to comparing higher order hierarchical structures between different species. Taken together, genomic data allows us to approximate a tree of life that showcases the relationships of living things. This year’s Biovis challenge will task researchers to visualize this tree of life using data from the [RefSeq database]( https://www.ncbi.nlm.nih.gov/refseq/about/). To help researchers with this daunting task, we will be releasing a dataset for analysis and visualization (refer to the background reading for more information).
+
+Submissions to the biovis challenge should be in the form of an open source interactive data visualization, for which we will release additional detailed requirements shortly.
+
+**To get updates about the Biovis data challenge, including the dataset release, sign up here:** [https://forms.gle/aiopkjYChP2PLbQG8](https://forms.gle/aiopkjYChP2PLbQG8)
+
+
+**Background Reading:**
+
+Our dataset comes from the following prior publication:
+
+
+>Mash: fast genome and metagenome distance estimation using MinHash.
+>Brian D. Ondov,Todd J. Treangen, Páll Melsted, Adam B. Mallonee, Nicholas H. Bergman, Sergey Koren and Adam M. Phillippy 
+>Genome Biology201617:132 doi : [https://doi.org/10.1186/s13059-016-0997-x]( https://doi.org/10.1186/s13059-016-0997-x )
+
+
+Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a hierarchical network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset 
+
+**Important Dates:**
+
+Dataset release and additional challenge details: Mid-May 2019
+
+Submissions Open: June 2019
+
+Submission Closes: August 2019
+
+Notification of Status: ~ Mid to late August 2019
+
+<br>
+<br>
+#### > Redesign Challenge
+
+Have you seen a commonly used biomedical data visualization that could be a lot better? Do you have an example of a time you’ve redesigned a data visualization that improved engagement? If so, the redesign challenge is your opportunity to tell that story!  
+
+We invited members of the biomedical and data visualization research communities to submit a poster of their redesign process and outcomes. Selected posters will be displayed at the 2019 IEEE VIS conference and the very top posters will be asked to present their work during the Biovis Challenges workshop on Thursday October 24th, 2019.
+
+**Submissions details are coming shortly, to receive additional notifications about our biovis redesign challenge please sign up here:** [https://forms.gle/dM7rqdfwTgq6R72C9](https://forms.gle/dM7rqdfwTgq6R72C9)
+
+**Important Dates:**
+
+Submissions Open: June 2019
+
+Submission Closes: August 2019
+
+Notification of Status : ~ Mid to late August 2019
+
 
 ### Past BioVis Challenges Workshops
-<a href="http://biovis.net/2017/agenda_ieee/">2017 - BioVis Challenges Workshop @ IEEE VIS 2017</a>, Phoenix, Arizona, US
+<a href="http://biovis.net/2018/agenda_ieee/">2018 - BioVis Challenges Workshop @ IEEE VIS 2018</a>, Berlin, Germany
 
+<a href="http://biovis.net/2017/agenda_ieee/">2017 - BioVis Challenges Workshop @ IEEE VIS 2017</a>, Phoenix, Arizona, US
 
 ### Workshop Organizers
 
-Cagatay Turkay, City, University of London, UK<br>
-Nils Gehlenborg, Harvard Medical School, USA
+Anamaria Crisan, University of British Columbia, Canada<br>
+Cydney Nielson, Microsoft, Canada

@@ -20,7 +20,7 @@ Biovis@VIS will be held during the main IEEE VIS 2019 program on Thursday Octobe
     <div class="col m6 s12 event-page-menu-block">
         <i class="material-icons large">create</i>
         <h3>BioVis Challenges</h3>
-        <a class="btn waves-effect disabled waves-light" href="{{site.baseurl}}/biovisChallenges_vis" type="submit" name="action">View Details</a>
+        <a class="btn waves-effect waves-light" href="{{site.baseurl}}/biovisChallenges_vis" type="submit" name="action">View Details</a>
     </div>
 
     <div class="col m6 s12 event-page-menu-block">
