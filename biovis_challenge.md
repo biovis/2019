@@ -29,8 +29,21 @@ Submissions to the biovis challenge should be in the form of an open source inte
 
 **To get updates about the Biovis data challenge, including the dataset release, sign up here:** [https://forms.gle/aiopkjYChP2PLbQG8](https://forms.gle/aiopkjYChP2PLbQG8)
 
+<br>
+##### >><strong>Dataset</strong>
 
-**Background Reading:**
+Download the challenge dataset [here](https://biovis.s3.amazonaws.com/biovis_contest_2019.zip)
+
+The following three files are enclosed within the zip file:
+
+Readme.txt
+refseq93.edge.tsv: edge list
+refseq93.color
+
+These files contain edges for >= 95% identity matches or RefSeq genomes (release93). Feel free to add additional information that may correspond to the information linked within these files. For example, the taxa id can we used to add additional metadata that are not contained within these existing files.
+
+<br>
+##### >><strong>Background Reading </strong>
 
 Our dataset comes from the following prior publication:
 
@@ -42,9 +55,23 @@ Our dataset comes from the following prior publication:
 
 Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a hierarchical network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset 
 
-**Important Dates:**
+<br>
+##### >><strong>Submission</strong>
 
-Dataset release and additional challenge details: Mid-May 2019
+Submissions can be interactive applications or novel visual encodings. Regardless of what you choose, we encourage participants to share their work publicly. You can submit as many solutions as you like and you can work together in teams. All submissions will be assessed by our panel of experts.
+
+All submissions should be submitted as a poster, conforming to the IEEE VIS poster formatting requirements.
+
+> The posters themselves have no predefined formatting, but dimensions may not exceed A0 paper size (841mm x 1189mm / 33.1” x 46.8”). ONLY PORTRAIT FORMAT IS ACCEPTABLE.
+
+Posters are to be submitted as a PDF file with a maximum file size of 10 mb. All poster submissions.
+
+Authors are also encouraged to provide a URL of their submission, which will be assessed at when all submissions are judged in August.
+
+[**Submission Link**](https://forms.gle/jT933bB2k6MjxZnp6)
+<br><br>
+
+##### >><strong>Important Dates</strong>
 
 Submissions Open: June 2019
 
@@ -60,9 +87,22 @@ Have you seen a commonly used biomedical data visualization that could be a lot 
 
 We invited members of the biomedical and data visualization research communities to submit a poster of their redesign process and outcomes. Selected posters will be displayed at the 2019 IEEE VIS conference and the very top posters will be asked to present their work during the Biovis Challenges workshop on Thursday October 24th, 2019.
 
-**Submissions details are coming shortly, to receive additional notifications about our biovis redesign challenge please sign up here:** [https://forms.gle/dM7rqdfwTgq6R72C9](https://forms.gle/dM7rqdfwTgq6R72C9)
+**To receive additional notifications about our biovis redesign challenge please sign up here:** [https://forms.gle/dM7rqdfwTgq6R72C9](https://forms.gle/dM7rqdfwTgq6R72C9)
 
-**Important Dates:**
+
+
+##### >><strong>Submission</strong>
+
+All submissions should be submitted as a poster, conforming to the IEEE VIS poster formatting requirements.
+
+> The posters themselves have no predefined formatting, but dimensions may not exceed A0 paper size (841mm x 1189mm / 33.1” x 46.8”). ONLY PORTRAIT FORMAT IS ACCEPTABLE.
+
+Posters are to be submitted as a PDF file with a maximum file size of 10 mb. All poster submissions.
+
+[**Submission Link**](https://forms.gle/CkUu5ejv1vpfFZn17)
+<br><br>
+
+##### >><strong>Important Dates</strong>
 
 Submissions Open: June 2019
 
@@ -78,5 +118,5 @@ Notification of Status : ~ Mid to late August 2019
 
 ### Workshop Organizers
 
-Anamaria Crisan, University of British Columbia, Canada<br>
+Anamaria Crisan, University of British Columbia, Canada (acrisan [at] cs [dot] ubc [dot] ca)<br>
 Cydney Nielson, Microsoft, Canada
