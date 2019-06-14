@@ -37,7 +37,9 @@ Download the challenge dataset [here](https://biovis.s3.amazonaws.com/biovis_con
 The following three files are enclosed within the zip file:
 
 Readme.txt
+
 refseq93.edge.tsv: edge list
+
 refseq93.color
 
 These files contain edges for >= 95% identity matches or RefSeq genomes (release93). Feel free to add additional information that may correspond to the information linked within these files. For example, the taxa id can we used to add additional metadata that are not contained within these existing files.
@@ -53,7 +55,7 @@ Our dataset comes from the following prior publication:
 >Genome Biology201617:132 doi : [https://doi.org/10.1186/s13059-016-0997-x]( https://doi.org/10.1186/s13059-016-0997-x )
 
 
-Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a hierarchical network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset 
+Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset 
 
 <br>
 ##### >><strong>Submission</strong>
