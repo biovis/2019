@@ -11,11 +11,15 @@ back_url: ismb
 
 ### July 22, 2019
 
+#### LOCATION: Boston 1/2 (Ground Floor)
+
+
 
 ## Invited Speakers
 
 <div class="talk">
-    <!--<div class="ttitle">TBA</div>-->
+    <div class="ttitle">Physical, Contextual, and Full of Value? What do novel directions in Visualization teach us about judging the value of visualization?
+</div>
     <div><span class="tspeaker"><a href="https://petra.isenberg.cc/wiki/pmwiki.php">Petra Isenberg</a></span>, <span> AVIZ/INRIA </span></div>
 
     <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/petra-isenberg.png" style="width: 250px;" alt="Petra Isenberg"></div>
@@ -37,7 +41,7 @@ back_url: ismb
     <div class="ttitle">Visualisation as a Partner to AI and Machine Learning in Drug Discovery</div>
     <div><span class="tspeaker"><a href="https://scholar.google.com/citations?user=jWcQDOsAAAAJ&hl=en">Lindsay Edwards</a></span>, <span> GSK </span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/lindsay-edwards.png " style="width: 250px;" alt="S.Carpendale">
+    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/lindsay-edwards.png " style="width: 250px;" alt="lindsay-edwards">
     </div>
 
     <div class="tbioabstract">
@@ -53,3 +57,240 @@ back_url: ismb
 
 <br>
 <br>
+
+<!--- WELCOME -->
+
+<h1> Program </h1>
+<div>
+    <div class="sumTime2">10:15 - 10:20</div>
+    <div>
+        <div class="sumContent">BioVis Welcome</div>
+        <div class="sumDetail" style="padding-left:120px;"><i>Jim Procter</i></div>
+    </div>
+</div>
+
+<hr class="style-one">
+
+
+
+<!-- SESSION 1,2,3  : --->
+
+<div>
+    <div class="sumTime2"> 10:20 - 12:40</div>
+    <div>
+        <div class="sumContent">Tools and Techniques</div>
+    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+</div>
+
+{% for paper in site.data.program2019%}
+{% if paper.session == "session1"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+
+<!-- Poster Session Talk II-->
+<div>
+        <div class="sumContent" style="font-size:1.15em">Poster Talks - Tools & Techniques I</div>
+</div>
+{% for paper in site.data.program2019%}
+{% if paper.session == "session2"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<div>
+        <div class="sumContent"  style="font-size:1.15em">Poster Talks - Applications I </div>
+</div>
+{% for paper in site.data.program2019%}
+{% if paper.session == "session3"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+
+<!-- Lunch Break -->
+<hr>
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 12:40 - 14:00 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Lunch break </em></div>
+</div>  
+<hr>
+
+<!-- SESSION 4 -->
+
+<div>
+    <div class="sumTime2">14:00 - 16:00</div>
+    <div>
+        <div class="sumContent">Afternoon</div>
+    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+</div>
+
+{% for paper in site.data.program2019%}
+{% if paper.session == "session4"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<!-- Coffee Break-->
+<hr>
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 16:00 - 16:40 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Coffee Break </em></div>
+</div>  
+<hr>
+
+<!-- SESSION 5,6,7 -->
+
+<div>
+    <div class="sumTime2">16:40 - 17:50</div>
+    <div>
+        <div class="sumContent">Afternoon II</div>
+    </div>
+    <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: TBD</i> </div>
+     <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+</div>
+
+{% for paper in site.data.program2019%}
+{% if paper.session == "session4"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+
+<!-- Poster Session Talk II-->
+<div>
+        <div class="sumContent" style="font-size:1.15em">Poster Talks - Tools & Techniques II</div>
+</div>
+{% for paper in site.data.program2019%}
+{% if paper.session == "session6"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<div>
+        <div class="sumContent"  style="font-size:1.15em">Poster Talks - Applications II</div>
+</div>
+{% for paper in site.data.program2019%}
+{% if paper.session == "session7"%}
+  <div>
+      <div class="sumTime" style="padding-top:5px;"> {{paper.start}} - {{paper.end}}</div>
+      {% if paper.doi != nil %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;">
+          <b><!--<a href="{{paper.doi}}">--> [{{paper.type}}] <!--</a>--></b> <b>{{paper.title}}</b></div>
+      </div>
+      {% else %}
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>[{{paper.type}}] {{paper.title}}</b></div>
+      </div>
+      {% endif %}
+      <div class="sumDetail" style="padding-left:120px;"> <em>Authors:</em> {{paper.authors}}</div>
+  </div>
+{% endif %}
+{% endfor %}
+
+<!-- CLOSING REMARKS AND POSTER SESSION -->
+<hr class="style-one">
+<div>
+    <div class="sumTime2">17:50 - 18:00</div>
+    <div>
+        <div class="sumContent">Closing Remarks</div>
+          <div class="sumDetail" style="padding-left:120px;"><i>Ana Crisan & Michel Westenberg</i></div>
+    </div>
+</div>
+
+<hr class="style-one">
+
+
+<div>
+    <div class="sumTime2">18:00 - 20:00</div>
+    <div>
+        <div class="sumContent">Poster Session</div>
+       
+		<div class="sumDetail" style="padding-left:120px;"><a href="https://www.iscb.org/cms_addon/conferences/ismb2019/posters.php?track=BioVis&session=B">BioVis posters</a></div>
+		
+    </div>
+</div>
