@@ -1,6 +1,6 @@
 ﻿id,event,start,end,session,sessionTitle,type,title,authors,presenter,abstract,image,doi
 1,BioVis,10:20,11:20,session1,Opening,Keynote,Visualisation as a Partner to AI and Machine Learning in Drug Discovery,Lindsay Edwards,,,,
-295,BioVis,11:20,11:40,session1,Opening,Long Talk 1,Epilogos: information-theoretic navigation of multi-tissue functional genomic annotations,"Wouter Meuleman, Alex Reynolds, Eric Rynes and Manolis Kellis",,,,
+295,BioVis,11:20,11:40,session1,Opening,Long Talk 1,Epilogos: information-theoretic navigation of multi-tissue functional genomic annotations,"Alex Reynolds, Eric Rynes, Manolis Kellis and Wouter Meuleman",,,,
 276,BioVis,11:40,11:50,session1,Opening,Short Talk,GeneDMRs: an R package for Gene-based Differentially Methylated Regions analysis,Xiao Wang and Haja Kadarmideen,,,,
 887,BioVis,11:50,12:00,session1,Opening,Short Talk,The gene Expression and Analysis Resource (gEAR) Portal,"Joshua Orvis, Brian Gottfried, Dustin Olley, Jayaram Kancherla, Beatrice Milon, Kevin Rose, Yang Song, Hector Bravo, Anup Mahurkar and Ronna Hertzano",,,,
 1019,BioVis,12:00,12:10,session1,Opening,Short Talk,Proactive Visual and Statistical Analysis of Genomic Data in Epiviz,"Zhe Cui, Jayaram Kancherla, Niklas Elmqvist and Hector Corrada Bravo",,,,
