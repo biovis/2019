@@ -16,6 +16,8 @@ The BioVis Interest Group organizes this interdisciplinary workshop at IEEE VIS,
 ### Challenge Formats
 Researchers will have two opportunities to participate in this year’s Biovis Challenge. The first is a **Data Challenge** where researchers are tasked to visualize the tree of life, the second opportunity is a **Redesign Challenge** where researchers have the opportunity to propose and present a redesign of a biological data visualization of their choosing. 
 
+See a summary of our challenges and our expectations [here](https://docs.google.com/presentation/d/1zd7L2fxpjmq_ujjbr4G7cCbu1MLHY9Cy6M4w-D5QR50/edit?usp=sharing)
+
 1. [Data Challenge](#data-challenge)
     * [>>Dataset](#dataset)
     * [>>Background](#background-reading)
