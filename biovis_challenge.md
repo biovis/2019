@@ -16,9 +16,17 @@ The BioVis Interest Group organizes this interdisciplinary workshop at IEEE VIS,
 ### Challenge Formats
 Researchers will have two opportunities to participate in this year’s Biovis Challenge. The first is a **Data Challenge** where researchers are tasked to visualize the tree of life, the second opportunity is a **Redesign Challenge** where researchers have the opportunity to propose and present a redesign of a biological data visualization of their choosing. 
 
+1. [Data Challenge](#data-challenge)
+    * [>>Dataset](#dataset)
+    * [>>Background](#background-reading)
+    * [>>Submission](#submission)
+    * [>>Important Dates](#submission)
+
+2. [Redesign Challenge](#redesign-challenge)
+    * [Getting an NCBI API Key](#ncbi-api-key)
+
 <br>
-<br>
-#### > Data Challenge
+#### >Data Challenge
 
 *The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this simile largely speaks the truth.*
 — Charles Darwin
@@ -45,7 +53,7 @@ refseq93.color
 These files contain edges for >= 95% identity matches or RefSeq genomes (release93). Feel free to add additional information that may correspond to the information linked within these files. For example, the taxa id can we used to add additional metadata that are not contained within these existing files.
 
 <br>
-##### >><strong>Background Reading </strong>
+##### >><strong>Background Reading</strong>
 
 Our dataset comes from the following prior publication:
 
@@ -54,8 +62,11 @@ Our dataset comes from the following prior publication:
 >Brian D. Ondov,Todd J. Treangen, Páll Melsted, Adam B. Mallonee, Nicholas H. Bergman, Sergey Koren and Adam M. Phillippy 
 >Genome Biology201617:132 doi : [https://doi.org/10.1186/s13059-016-0997-x]( https://doi.org/10.1186/s13059-016-0997-x )
 
+Figure three in the image (shown below) is an attempt to visualize the data for this challenge. Can you do better?
 
-Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset 
+<img src="https://user-images.githubusercontent.com/5395870/61619430-ac88f380-ac23-11e9-99c7-8cc543e1a61a.jpeg" width="500px">
+
+Although the primary focus of this public is the introduction of a rapidly computable distance metric for genomic data, the focus of this challenge is  Figure 3, which visualizes a network of the RefSeq database genomes using the MASH results. Reading this background paper should provide you with an intuition about the dataset and how you might use the properties in this dataset .
 
 <br>
 ##### >><strong>Submission</strong>
@@ -77,13 +88,13 @@ Authors are also encouraged to provide a URL of their submission, which will be 
 
 Submissions Open: June 2019
 
-Submission Closes: August 2019
+Submission Closes: August  26th 2019 9PM PDT 
 
-Notification of Status: ~ Mid to late August 2019
+Notification of Status: September 10th 2019
 
 <br>
 <br>
-#### > Redesign Challenge
+#### >Redesign Challenge
 
 Have you seen a commonly used biomedical data visualization that could be a lot better? Do you have an example of a time you’ve redesigned a data visualization that improved engagement? If so, the redesign challenge is your opportunity to tell that story!  
 
@@ -108,9 +119,9 @@ Posters are to be submitted as a PDF file with a maximum file size of 10 mb. All
 
 Submissions Open: June 2019
 
-Submission Closes: August 2019
+Submission Closes: August 26th 2019 9PM PDT
 
-Notification of Status : ~ Mid to late August 2019
+Notification of Status : September 10 2019
 
 
 ### Past BioVis Challenges Workshops
