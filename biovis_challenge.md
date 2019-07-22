@@ -23,7 +23,7 @@ Researchers will have two opportunities to participate in this year’s Biovis C
     * [>>Important Dates](#submission)
 
 2. [Redesign Challenge](#redesign-challenge)
-    * [Getting an NCBI API Key](#ncbi-api-key)
+
 
 <br>
 #### >Data Challenge
