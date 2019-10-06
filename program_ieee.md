@@ -1,93 +1,240 @@
 ---
 layout: page
-title: Agenda for BioVis@Vis Workshop
-permalink: /agenda_ieee/
+title: Program for BioVis@Vis Workshop
+permalink: /program_ieee/
 back_title: IEEE VIS
 back_url: ieeevis
 ---
 
-## BioVis Challenges Workshop Agenda
-
-### Workshop Scope
-The number of individuals in studies that are collecting clinical, genomic, and other biomedical data has been growing rapidly in recent years. For example, the [UK Biobank](https://www.ukbiobank.ac.uk/) currently makes data for 500,000 individuals available and the National Institutes of Health [All of Us Program](https://allofus.nih.gov/) aims to collect data on a million individuals over the next few years. Similar data collection and organization efforts are also taking place at hospitals and private companies in the pharma and healthcare sectors. The breadth of these collections is also growing significantly with the increasing availability of different data channels and personal sensors, adding new layers of richness and valuable information.
-
-In this workshop, we will discuss what unique data visualization challenges visualization of data from such studies are posing and how the visualization community can contribute to the success of those studies. This will include questions focused on visual design and interaction, but also technical and legal challenges related to data access, for a broad range of data types and driving biomedical questions.
-
-### Workshop Goal
-The goal of the workshop is to lay the groundwork for a position paper on challenges and research opportunities for data visualization in large heterogeneous collections of clinical, genomic, and other biomedical data. Workshop organizers and interested workshop participants will collaboratively refine the results of the discussions after the event and write this position paper. At a minimum, all participants will be acknowledged for their contribution.
-
+## BioVis@Vis 2019 Challenges Workshop Agenda
 
 ### Preliminary Timeline
-Note: This is a rough agenda and the timings might slightly vary due to the dynamic nature of the workshop
+Note: This is a preliminary agenda and the timings might slightly vary due to the dynamic nature of the workshop
 
-**When:** October 22nd, 2019, 9:00 - 12:40
+**When:** Thursday October 24nd, 2019, 9:00 - 12:20
 
-**Location:** Room Estrel B, Estrel Berlin Convention Center (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
+**Location:** TBA (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
 <a name="agenda"></a>
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 9:00 - 9:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <b>Opening remarks and workshop structure overview</b></div>
-</div>  
-
-<div>
-    <div class="sumTime2" style="font-size:15px;color:#21a186;">9:10 - 9:40</div>
-    <div>
-        <div class="sumContent" style="font-size:15px;color:#21a186;">Keynote</div>
-        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div>
-          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> David Gotz</b>, University of North Carolina at Chapel Hill</i>
-          </div>
-    </div>
-</div>
-
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 9:40 - 10:00 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Topics Discussion, Forming groups and setting up</div>
-</div>  
-
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 10:00 - 10:40 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 1: Introductions and outline questions</div>
-</div>  
 
 <hr>
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 10:40 - 11:00 </div>
+    <div class="sumTime2"> 9:00 - 9:10</div>
+    <div>
+        <div class="sumContent">Opening remarks and BioVis @ISMB Recap</div>
+    </div>
+    <!-- <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Ana & Cyndey</i> </div> -->
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+</div>
+
+<hr>
+<div>
+    <div class="sumTime2"> 9:10 - 10:30</div>
+    <div>
+        <div class="sumContent">Domain Expert Presentations</div>
+    </div>
+    <!-- <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Ana & Cyndey</i> </div> -->
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
+</div>
+
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 9:10 - 9:35 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> Martin Karpefors</div>
+</div>  
+
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 9:35- 10:05 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;">Erin Pleasance</div>
+</div>  
+
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 10:05 - 10:35 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Sean E. Hanlon </em></div>
+</div>  
+
+
+<hr>
+
+<!-- COFEE BREAK -->
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 10:35 - 10:50 </div>
     <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em>Coffee Break </em></div>
 </div>  
 <hr>
 
+
+
+<!-- DATA CHALLENGE SESSIONS -->
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 11:00 - 12:10 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Group work Session 2: Prioritize questions, develop ideas, and draft report
+    <div class="sumTime2"> 10:50 - 11:40</div>
+    <div>
+        <div class="sumContent">Data and Redesign Challenge Results</div>
+    </div>
 </div>
+
+<div>
+  <div class="sumTime" style="padding-top:5px;"> 10:50 - 11:00 </div>
+    <div class="ttile" style="padding-left:120px; padding-top:5px;"> <em> Data and Redesign Challenge Overview </em></div>
 </div>  
 
-<div>
-  <div class="sumTime" style="padding-top:5px;"> 12:10 - 12:30 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;">Reporting back from groups</div>
+<!-- DATA CONTEST : JAMES -->
+ <div>
+      <div class="sumTime" style="padding-top:5px;"> 11:00 - 11:07</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> A Radial View of the BioVis Challenge 2019 Dataset <b></b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: James Scott-Brown</em> </div>
+  </div>
+
+  <!-- DATA CONTEST : HackSeq -->
+ <div>
+      <div class="sumTime" style="padding-top:5px;"> 11:08 - 11:20</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> HackSeq 2019 Results <b></b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Ana Crisan</em> </div>
+  </div>
+
+
+  <!-- REDESIGN CONTEST : Cassia -->
+ <div>
+      <div class="sumTime" style="padding-top:5px;"> 11:20 - 11:30</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> RasVis: Redesigning Pathways to Support Analyses of Experimental Data <b></b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Cassia Artanegara and Agnus Forbes</em> </div>
+  </div>
+
+  <!-- REDESIGN CONTEST : Martin -->
+ <div>
+      <div class="sumTime" style="padding-top:5px;"> 11:30 - 11:40</div>
+      <div>
+          <div class="ttile" style="padding-left:120px; padding-top:5px;"> The Tendril Plot – A Redesign supporting more effective safety assessment following a clinical trial <b></b></div>
+      </div>
+      <div class="sumDetail" style="padding-left:120px;"> <em>Presenter: Martin Karpefors </em> </div>
+  </div>
+
+  <hr>
+
+  <!-- CAPSTONE  -->
+  <div>
+    <div class="sumTime2" style="font-size:15px;color:#21a186;">11:40 - 12:15</div>
+    <div>
+        <div class="sumContent" style="font-size:15px;color:#21a186;">Captsone</div>
+        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">Little table, what do you have to say of visualization?</div>
+          <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Martin Krzywinski</b>, Michael Smith Genome Sciences Centre</i>
+          </div>
+    </div>
 </div>
-
+<hr>
 <div>
-  <div class="sumTime" style="padding-top:5px;"> 12:30 - 12:40 </div>
-    <div class="ttile" style="padding-left:120px; padding-top:5px;"><b>Wrap-up / Final comments / Next steps</b></div>
+    <div class="sumTime2"> 12:15 - 12:20</div>
+    <div>
+        <div class="sumContent">Closing Remarks</div>
+    </div>
+    <!-- <div class="sumDetail" style="padding-left:120px;"><i>Session Chair: Ana & Cyndey</i> </div> -->
+    <!-- <div class="sumDetail" style="padding-left:120px;font-size:12px;"><i>(* indicates presenting author)</i> </div> -->
 </div>
+<hr>
 
 
-### Keynote Talk
 
+
+### Domain Expert Presentations
+
+Expert panelists will discuss the data analysis and visualization challenges in their specific areas. Each panelist will deliver a short presentation, after which audience members will have an opportunity to further discuss with them about their specific challenges and existing solutions.
+
+<!-- Martin Karpefors --->
 <div class="talk">
-    <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div>
-    <div><span class="tspeaker"><a href="http://gotz.web.unc.edu/">David Gotz</a></span>, <span>University of North Carolina at Chapel Hill</span></div>
+    <!-- <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div> !-->
+    <div><span class="tspeaker"><a href="_">Martin Karpefors</a></span>, <span>AstraZeneca</span></div>
 
-    <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div>
+   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
 
     <div class="tbioabstract">
 
-        <div class="tabstract"><b>Abstract:</b>
-        David Gotz is an Associate Professor of Information Science in the <a href="http://sils.unc.edu/">School of Information and Library Science</a> (SILS) at the <a href="http://www.unc.edu/">University  of North Carolina at Chapel Hill</a>. He leads the Visual Analysis and Communications Lab (VACLab) where he conducts research related to the study and development of visual methods for information analysis and communication. He also serves as the Assistant Director for the <a href="http://chip.unc.edu/">Carolina Health Informatics Program</a>.
-		
-		Prior to joining SILS, he was a research scientist at the <a href="http://www.watson.ibm.com/">T.J. Watson Research Center</a> at IBM Research. During his final years at IBM he was part of the <a href="http://www.research.ibm.com/healthcare/">Healthcare Systems and Analytics Research Department</a>. He also spent several years working for the Intelligent Information Interaction Department which he joined  immediately after earning his Ph.D. in Computer Science from UNC-Chapel Hill in 2005. Prior to his Ph.D. studies, he received his MS in Computer Science from <a href="http://www.unc.edu/">UNC-Chapel Hill</a> in 2001. He graduated with highest honors from <a href="http://www.gatech.edu/">Georgia Tech</a> in 1999 where he majored in Computer Science and received a certificate in Economics.
+        <div class="tabstract"><b>Speaker Bio:</b>
+
+        Dr. Martin Karpefors works as Senior Biomedical Informatics Director in the Data Science and AI department at AstraZeneca R&D Gothenburg, Sweden. 
+
+        Dr. Karpefors graduated with a M.Sc. in Physics from Chalmers University of Technology in 1995. In 2000 he finished his PhD studies in biochemistry and biophysics, defending his thesis entitled "Control Mechanisms of Electron and Proton Transfer in Cytochrome c Oxidase". Later that year, Dr. Karpefors joined AstraZeneca. Since then, he has been active within the fields of mathematical modeling, machine learning, visualization and informatics to support decision making in early and late clinical development, especially within the cardiovascular, metabolic and respiratory disease areas.
+        </div>
+    </div>
+</div>
+
+<!-- Sean Hanolon --->
+<div class="talk">
+    <!-- <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div> !-->
+    <div><span class="tspeaker"><a href="https://cssi.cancer.gov/about-us/leadership/sean-e-hanlon-phd">Sean E. Hanlon</a></span>, <span>National Cancer Institute</span></div>
+
+   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+
+    <div class="tbioabstract">
+
+        <div class="tabstract"><b>Speaker Bio:</b>
+
+      Dr. Sean E. Hanlon is an Associate Director of the Center for Strategic Scientific Initiatives (CSSI) at the NCI where he contributes to the vision and strategic plans of the Center, provides leadership in the analysis and evaluation of emerging fields, and develops and implements new initiatives. Additionally, Dr. Hanlon serves as a CSSI/NCI representative on NCI, NIH, and inter-agency working groups and committees, including the trans-NCI Data Sharing working group. He also facilitates collaborations and provides strategic and scientific leadership to collaborative transdisciplinary programs, including the NIH Common Fund’s 4D Nucleome program.
+
+      Prior to joining CSSI, Dr. Hanlon served as Program Director within the NCI Division of Cancer Biology where he served as Director of the Physical Sciences-Oncology Network (PS-ON). In this role, he led the scientific management and oversight of the PS-ON and worked to identify synergistic opportunities and foster new collaborations. He also managed the PS-ON Trans-Network Projects program and the PS-ON Data Coordinating Center which together leveraged the expertise of multiple teams to test new physical sciences-based cancer questions and fostered the sharing of PS-ON generated data.
+        </div>
+    </div>
+</div>
+
+
+<!-- Erin Pleasance--->
+<div class="talk">
+    <!-- <div class="ttitle">Health Data Diversity and Complexity: Visualization Challenges for Longitudinal Cohort Analysis</div> !-->
+    <div><span class="tspeaker"><a href="http://www.bcgsc.ca/faculty/sjones/research-team-members/Erin01.JPG/view">Erin Pleasance</a></span>, <span>British Columbia Cancer Agency</span></div>
+
+   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+
+    <div class="tbioabstract">
+
+      <div class="tabstract"><b>Speaker Bio:</b>
+
+      Dr. Erin Pleasance is a Staff Scientist with the BC Cancer Agency and Micheal Smith Genome Sciences Centre. Her research is focused on the use of genomics for cancer medicine. Dr. Pleasance is currently involved in the Personalized OncoGenomics (POG) project, a collaboration between researchers in bioinformatics and genomics, clinicians, and pathologists that uses genomic technologies to contribute to personalized cancer therapy decision making at the BC Cancer Agency. In recent years, she have also been involved in The Cancer Genome Atlas (TCGA) and various cancer sequencing projects funded through the National Cancer Institute. She completed her PhD in medical genetics at the GSC with Dr. Steve Jones, followed by postdoctoral work at the Sanger Institute in the UK with Sir Mike Stratton, sequencing some of the first cancer genomes. 
+        </div>
+    </div>
+</div>
+
+
+### Capstone 
+
+<!-- Martin Kyrwinsky --->
+<div class="talk">
+    <div class="ttitle">Little table, what do you have to say of visualization? </div> 
+    <div><span class="tspeaker"><a href="http://mkweb.bcgsc.ca/">Martin Krzywinski</a></span>, <span>Michael Smith Genome Sciences Centre</span></div>
+
+   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+
+    <div class="tbioabstract">
+
+      <div class="tabstract"><b>Abstract:</b>
+
+      <blockquote><em>
+      Little P value <br>
+	    What do you have to say<br>
+	    Of significance?<br>
+	      — Steve Ziliak<br>
+      </em></blockquote>
+
+      The job of the table is to classify and organize data. This is achieved by alignment, spacing and typographical hierarchy. Visualizations extend tabularization by adding elements to make quantitative proportions and trends more salient. At the heart of an effective visualization is an effective (if subtle) table. <br>
+
+      Thus, any inquiry into visualization practices must include questions about tabularization practices. If we want good visualizations, we want good tables. Do we make good tables? Generally, we do not. <br><br>
+
+      Good tables don’t elicit the same respect and satisfaction as good plots. It’s hard to rally support for rows and columns of text and no color. The problem is that if you love cake but find flour boring, you will never understand cake. <br><br>
+
+      Using examples from classrooms, conferences and the literature, I’ll demonstrate the benefit of seeing visualizations are tables with colors and shapes and how this view can shape the process of creation, diagnosis, and redesign. <br>
+
+        </div>
+    </div>
+
+    <div class="tbioabstract">
+
+      <div class="tabstract"><b>Speaker Bio:</b>
+
+        Martin Krzywinski is a staff scientist at the BC Cancer Agency  & Michael Smith Genome Sciences Centre in Vancouver, working at the intersection of science and design. Martin is perhaps best known for creating popular visualization techniques including Circos and Hive Plots. For more, see <a href= "http://mkweb.bcgsc.ca/bio/martin-krzywinski-bio.pdf"> Martin’s official biography </a>.
+
         </div>
     </div>
 </div>

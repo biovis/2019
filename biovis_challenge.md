@@ -5,6 +5,13 @@ permalink: /biovisChallenges_vis/
 back_title: IEEE VIS 2019
 back_url: ieeevis
 ---
+
+<div style="background-color: #f2f2f2; border-style: solid; border-color: #009e9d; padding: 5px;">
+Submission are closed for our data and redesign challenges. All acceptted submissions will be presented at the BioVis@Vis workshop. <br>
+
+BioVis@VIS will be held during the main IEEE VIS 2019 program on Thursday October 24th, 2019, over two consecutive sessions: 9:00AM to 10:30 AM and again from 10:50 AM to 12:20 PM. Please see the program, which is now avialable online.
+</div>
+
 ## BioVis Challenges Workshop 
 ## at IEEE VIS 2019, Vancouver, British Columbia
 
