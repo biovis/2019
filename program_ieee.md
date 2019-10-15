@@ -6,14 +6,11 @@ back_title: IEEE VIS
 back_url: ieeevis
 ---
 
-## BioVis@Vis 2019 Challenges Workshop Agenda
-
-### Preliminary Timeline
-Note: This is a preliminary agenda and the timings might slightly vary due to the dynamic nature of the workshop
+## BioVis@Vis 2019 Challenges Workshop Program
 
 **When:** Thursday October 24nd, 2019, 9:00 - 12:20
 
-**Location:** TBA (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
+**Location:** Room 1 (for further details see the [http://ieeevis.org/](http://ieeevis.org/))
 
 <a name="agenda"></a>
 
@@ -59,7 +56,7 @@ Note: This is a preliminary agenda and the timings might slightly vary due to th
 <div>
     <div class="sumTime2" style="font-size:15px;color:#21a186;">10:05 - 10:35</div>
     <div>
-        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;">An Update on Advancing Innovation and Technology Development in Cancer Research: the Human Tumor Atlas Network</div>
+        <div class="sumContent" style="padding-left:120px;font-size:15px;color:#21a186;"> Opportunities and Challenges for Visualizing Human Tumor Atlases</div>
           <div class="sumDetail" style="padding-left:120px;font-size:15px;color:#21a186;"><i> Speaker: <b> Sean E. Hanlon</b>, National Cancer Institute</i> <a href = "#d_sean_abs" style ="font-size:10px;color:#21a186;"> ... [abstract & bio]</a></div> 
     </div>
 </div>
@@ -159,7 +156,7 @@ Expert panelists will discuss the data analysis and visualization challenges in 
     <div class="ttitle">Visual Innovations and Challenges in Drug Development</div> 
     <div><span class="tspeaker"><a href="_">Martin Karpefors</a></span>, <span>AstraZeneca</span></div>
 
-   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+   <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/MartinKarpefors.jpg" style="width: 150px;" alt="Martin Karpefors"></div>
 
     <div class="tbioabstract" id="d_martin_abs">
 
@@ -187,15 +184,15 @@ Expert panelists will discuss the data analysis and visualization challenges in 
 
 <!-- Sean Hanolon --->
 <div class="talk">
-    <div class="ttitle">An Update on Advancing Innovation and Technology Development in Cancer Research: the Human Tumor Atlas Network</div>
+    <div class="ttitle">Opportunities and challenges for visualizing Human Tumor Atlases</div>
     <div><span class="tspeaker"><a href="https://cssi.cancer.gov/about-us/leadership/sean-e-hanlon-phd">Sean E. Hanlon</a></span>, <span>National Cancer Institute</span></div>
 
-   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+   <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/Hanlon_2018.jpg" style="width: 150px;" alt="Sean Hanlon"></div>
 
     <div class="tbioabstract">
 
       <div class="tabstract" id="d_sean_abs"><b>Abstract:</b>
-          Emerging single-cell and in situ technologies are facilitating the characterization of normal and diseased human cells and tissues at unprecedented resolution. Coupling these genomics data with imaging modalities that provide information about cell-cell interactions, tissue composition, gross organ structure, and metabolism can improve our understanding of the development and evolution of cells and tissues. Several recent initiatives have focused on generating ‘atlases’ that integrate multi-scale maps to facilitate our understanding of health and disease. Two such programs are the NIH 4-Dimensional Nucleome (4DN) Program which is developing atlases of nuclear organization and the NCI Human Tumor Atlas Network (HTAN) which is developing atlases of human cancers as they evolve from precancerous lesions to advanced disease. These atlas building programs seek to integrate multi-scale data from 3D genome organization to single cell epigenetic states and expression profiles to spatial transcriptomics and protein localization to cell state and immune status to tissue level organization and phenotypes. The ultimate aim is to integrate multi-modal and multi-scale data and provide it in a user-friendly environment for the scientific research and clinical communities and the general public. A major challenge to developing comprehensive cell and tissue atlases is the visualization of data across scales and modalities. These programs hope to identify and utilize emerging visualization tools to facilitate the understanding and dissemination of data and knowledge.
+        Emerging single-cell and in situ technologies are facilitating the characterization of normal and diseased human cells and tissues at unprecedented resolution. Coupling these genomics data with imaging modalities that provide information about tissue composition, gross organ structure, and metabolism can improve our understanding of the development and evolution of cells and tissues. Several recent initiatives have focused on generating ‘atlases’ that integrate multi-scale maps to facilitate our understanding of health and disease. These include the 4-Dimensional Nucleome (4DN) Program, the Human BioMolecular Atlas Program (HuBMAP), the Human Cell Atlas (HCA) initiative, and the Human Tumor Atlas Network (HTAN). These atlas building programs seek to integrate multi-scale data from 3D genome organization to single cell epigenetic states and expression profiles to spatial transcriptomics and protein localization to cell state and immune status to tissue level organization and phenotypes. The ultimate aim is to integrate multi-modal and multi-scale data and provide it in a user-friendly environment for the scientific research and clinical communities and the general public. A major challenge to developing comprehensive cell and tissue atlases is the visualization of data across scales and modalities. I will share highlights of the HTAN program and data and discuss opportunities and challenges for visualizing HTAN data and atlases.
         </div>
     </div>
 
@@ -219,7 +216,7 @@ Expert panelists will discuss the data analysis and visualization challenges in 
     <div class="ttitle">Personalized OncoGenomics: Translating Whole Cancer Genomes for the Clinic</div>
     <div><span class="tspeaker"><a href="http://www.bcgsc.ca/faculty/sjones/research-team-members/Erin01.JPG/view">Erin Pleasance</a></span>, <span>British Columbia Cancer Agency</span></div>
 
-   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+   <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/ErinPleasancePhoto.jpg" style="width: 150px;" alt="Erin Pleasance"></div>
 
     <div class="tbioabstract">
 
@@ -248,7 +245,7 @@ Expert panelists will discuss the data analysis and visualization challenges in 
     <div class="ttitle">Little table, what do you have to say of visualization? </div> 
     <div><span class="tspeaker"><a href="http://mkweb.bcgsc.ca/">Martin Krzywinski</a></span>, <span>Michael Smith Genome Sciences Centre</span></div>
 
-   <!--  <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/gotz_david.jpg" style="width: 150px;" alt="David Gotz"></div> -->
+   <div class="tportrait"><img src="{{ site.baseurl}}/images/speakers/martin_krzywinski-2.jpg" style="width: 150px;" alt="Martin Krzywinski"></div>
 
     <div class="tbioabstract" id = "c_martin_abs">
 
